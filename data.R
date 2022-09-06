@@ -21,3 +21,5 @@ write.taf(trees, dir = "data")
 testplot <- "this will never work"
 
 anotherplot <- "blah blah"
+
+yetanotherplot <- "aha!"
