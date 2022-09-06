@@ -17,3 +17,7 @@ trees <- read.taf(taf.data.path("trees.csv"))
 write.taf(trees, dir = "data")
 
 # this is a comment
+
+testplot <- "this will never work"
+
+anotherplot <- "blah blah"
