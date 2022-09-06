@@ -2,3 +2,14 @@
 .Rhistory
 .RData
 .Ruserdata
+*.Rproj
+
+exercise-1.R
+worksheet-1.R
+
+/data/
+/model/
+/output/
+/report/
+
+/bootstrap/data/
